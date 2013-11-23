@@ -8,7 +8,6 @@ You can find detailed information on the project here: http://www.computercraft.
 
 Screenshots
 =============
-![alt tag](https://raw.github.com/kinoftheflames/ed/blob/master/screenshots/editor.jpg)
 ![alt tag](/screenshots/editor.jpg)
 ![alt tag](/screenshots/help.jpg)
 ![alt tag](/screenshots/options.jpg)
