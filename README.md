@@ -1,4 +1,4 @@
-ed - The In-Game IDE for ComputerCraft
+ed - The ComputerCraft IDE
 ===
 This program was written for ComputerCraft 1.4 and likely will not function properly on the most recent version of ComputerCraft.
 
