@@ -1,4 +1,4 @@
-Computercraft
+ed - The Computercraft Editor
 ===
 
 I wrote a bunch of programs when I was playing the Computercraft mod in Minecraft. 
