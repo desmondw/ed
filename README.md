@@ -1,5 +1,5 @@
 Computercraft
-=============
+===
 
 I wrote a bunch of programs when I was playing the Computercraft mod in Minecraft. 
 
@@ -7,7 +7,7 @@ My 'magnum opus' of this series is 'ed' the in-game editor. The mod came with a 
 You can find detailed information on the project here: http://www.computercraft.info/forums2/index.php?/topic/4270-v03-ed-the-in-game-ide/
 
 Screenshots
-=============
+---
 ![alt tag](/screenshots/editor.jpg)
 ![alt tag](/screenshots/help.jpg)
 ![alt tag](/screenshots/options.jpg)
