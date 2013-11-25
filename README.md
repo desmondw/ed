@@ -1,5 +1,7 @@
 ed - The ComputerCraft IDE
 ===
+Last edit before repo: 9/25/12
+
 This program was written for ComputerCraft 1.4 and likely will not function properly on the most recent version of ComputerCraft.
 
 Background
